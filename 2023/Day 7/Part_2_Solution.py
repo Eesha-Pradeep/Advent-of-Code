@@ -1,4 +1,4 @@
-with open("tick.txt", "r") as f:
+with open("input.txt", "r") as f:
   lines = f.readlines()
 
 values = {"2":"A", "3":"B", "4":"C", "5":"D", "6":"E", "7":"F", "8":"G", "9":"H", "T":"I", "J":"@", "Q":"K", "K":"L", "A":"M"}
